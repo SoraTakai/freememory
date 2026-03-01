@@ -1,4 +1,4 @@
-# FreeMemory
+# `FreeMemory` Beat Saber Mod
 
 One-click memory cleanup for Beat Saber on Quest.
 If your game starts feeling heavy after long sessions, this mod gives you a fast way to reclaim memory without restarting.
