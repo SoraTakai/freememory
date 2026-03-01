@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Lauriethefish/QuestPatcher.QMod/main/QuestPatcher.QMod/Resources/qmod.schema.json",
+  "_QPVersion": "0.1.1",
+  "name": "${mod_name}",
+  "id": "${mod_id}",
+  "author": "FreeMemory",
+  "version": "${version}",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.37.0_9064817954",
+  "description": "Adds a `Free Memory!` button that triggers aggressive memory cleanup and shows `DONE!` when finished.",
+  "dependencies": [],
+  "modFiles": [
+    "${binary}"
+  ],
+  "libraryFiles": [],
+  "fileCopies": []
+}
