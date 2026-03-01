@@ -20,7 +20,9 @@
       "./build",
       "./extern/libs"
     ],
-    "qmodIncludeFiles": [],
+    "qmodIncludeFiles": [
+      "./cover.png"
+    ],
     "qmodOutput": "./FreeMemory.qmod"
   },
   "dependencies": [
