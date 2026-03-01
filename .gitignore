@@ -82,3 +82,5 @@ include/git-info.h
 # Script package ID text file
 package_id.txt
 version.txt
+
+*.zip
